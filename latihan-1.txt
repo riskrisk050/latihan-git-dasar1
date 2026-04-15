@@ -1,7 +1,8 @@
 Jalur belajar mengenai front end
 1. HTML
 2. CSS Dasar
-3. CSS Box Model, Grid & Flex 
+ 
 4. Javascript
 5. Git
 6. MySQL
+7. React
