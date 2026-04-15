@@ -4,3 +4,4 @@ Jalur belajar mengenai front end
 3. CSS Box Model, Grid & Flex 
 4. Javascript
 5. Git
+6. MySQL
